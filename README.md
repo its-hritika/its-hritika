@@ -1,12 +1,8 @@
 <h1 align="center">
-Hi, I'm Hritika Singh
+Hi, I'm Hritika Singh 👋🏻
 
 <br/>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Student;RED Teaming%20|%20Pentesting%20|%20SysAdmin%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
 <hr/>
 <samp>
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, innovative👩‍💻 with good moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️.
